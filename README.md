@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 **DevOps Engineer – Analyst** at **Accenture** (Evernorth Health Services)
-- ⚡ 2.5+ years building production-grade CI/CD pipelines, EKS clusters, and IaC on AWS
+- ⚡ 3 years building production-grade CI/CD pipelines, EKS clusters, and IaC on AWS
 - 🎯 Key wins: ~40% faster deployments · ~30% MTTR reduction · 15+ AWS environments automated · Zero critical CVEs
 - ☁️ **AWS Cloud Practitioner Certified** | Preparing for **CKA**
 - 📍 Hyderabad, India | Open to DevOps / SRE / Platform Engineer roles
